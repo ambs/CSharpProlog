@@ -60,7 +60,8 @@ namespace Prolog
         telling, term_pattern, throw_, time_part, timespan, today, told, trace, treeprint,
         undefineds, unifiable, univ, username, userroles, validdate, validtime, var,
         verbose, version, weekno, workingdir, write, writef, writeln, writelnf, xml_term,
-        xmltrace, xml_transform
+        xmltrace, xml_transform,
+        custom
     }
 
     public partial class PrologEngine
